@@ -1,0 +1,9 @@
+{
+    "type": "subscribe",
+    "product_ids": [
+        "BTC-USD",
+        "ETH-USD",
+        "ETH-BTC"
+    ],
+    "channels": ["matches"]
+}
